@@ -11,6 +11,7 @@ public class India {
 	public static void main(String[] args) {
 			displayGreetings();
 			new Greetings().greet();
+			System.out.println("added new line");
 
 	}
 
