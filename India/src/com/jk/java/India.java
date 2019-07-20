@@ -12,6 +12,7 @@ public class India {
 			displayGreetings();
 			new Greetings().greet();
 			System.out.println("added new line");
+		System.out.println("added from github");
 
 	}
 
